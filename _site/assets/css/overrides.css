@@ -1,0 +1,40 @@
+img[alt=headshot] { height: 45vh; }
+
+.recitals {
+    margin-bottom: 5vh;
+}
+
+.copyright {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    gap: 0.2em;
+}
+
+.italiclink {
+    font-style: italic;
+    color: darkcyan;
+}
+
+.wrap {
+  width: 1300px;
+  height: 1100px;
+  overflow: hidden;
+}
+
+@media only screen and (max-width: 750px) {
+    .wrap {
+        width: 550px;
+        height: 900px;
+        overflow: hidden;
+    }
+}
+
+iframe {
+  width: 76.92% !important;
+  height: 76.92% !important;
+  -webkit-transform: scale(0.9);
+  transform: scale(0.9);
+  -webkit-transform-origin: 0 0;
+  transform-origin: 0 0;
+}

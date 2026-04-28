@@ -24,3 +24,7 @@ In my spare time, I enjoy cooking, reading novels and coding.
 
 For all enquiries, please fill out the contact form here:
 <a  class="italiclink" href="/contact">Contact Page</a>
+
+
+### This website ###
+<p>was built with Jekyll and is hosted on Github. Based on the  <a class ="italiclink" href="https://github.com/andrewhwanpark/brutalist-blog/tree/main">Brutalist Blog</a>  template.</p>

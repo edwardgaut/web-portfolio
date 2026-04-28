@@ -2,5 +2,12 @@
   link: /
 - name: About
   link: /about/
-- name: Portfolio
-  link: /portfolio/
+- name: Recitals
+  link: /recitals/
+- name: Teaching
+  link: /teaching/
+- name: Photography
+  link: /photography/
+- name: Contact
+  link: /contact/
+

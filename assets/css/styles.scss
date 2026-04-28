@@ -1,7 +1,11 @@
 ---
 ---
-@import url(//fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap);
-@import url(//fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap);
+@mixin google-font($family)
+  @import url("http://fonts.googleapis.com/css?family=#{$family}")
+
+
+@include google-font("EB Garamond")
+@include google-font("Jost")
 @import "bootstrap-dark";
 @import "syntax-highlighting";
 @import "main";

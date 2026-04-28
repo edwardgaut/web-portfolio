@@ -21,13 +21,13 @@ tagline: Organist
 description: Organist
 
 # The full URL to your site. Note: site.github.url will be used by default.
-url: "https://edwardgaut.github.io/web-portfolio/"
+url: "edwardgaut.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "https://github.com/edwardgaut/web-portfolio"
+baseurl: "/web-portfolio"
 
 # global author information
 author: edward-gaut

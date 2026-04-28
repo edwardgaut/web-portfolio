@@ -7,7 +7,6 @@ date: 2025-05-15
 ### Programme ###
 
 ---
-
 I: Allegro Maestoso from Organ Sonata in G major  
 *Edward Elgar (1857–1934)*
 

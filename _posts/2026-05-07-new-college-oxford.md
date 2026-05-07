@@ -3,6 +3,7 @@ layout: post
 title: "New College, Oxford"
 date: 2026-05-07
 ---
+
 ### Programme ###
 
 ---
@@ -20,3 +21,10 @@ Passacaglia in D minor
 
 Passacaglia on a theme of Dunstable  
 *John Weaver (1937–2021)*
+
+### Stream ###
+
+---
+<div class='streambox'>
+<iframe class = 'stream' src="https://www.youtube.com/embed/E6YWLXMVgQs?si=DzJ0XxcJlXn3IEro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+</div>

@@ -4052,8 +4052,13 @@ img[alt=headshot] { height: 45vh; }
 
 .wrap { width: 1300px; height: 1100px; overflow: hidden; }
 
-@media only screen and (max-width: 750px) { .wrap { width: 550px; height: 900px; overflow: hidden; } }
-iframe { width: 76.92% !important; height: 76.92% !important; -webkit-transform: scale(0.9); transform: scale(0.9); -webkit-transform-origin: 0 0; transform-origin: 0 0; }
+.streambox { width: 1110px; height: 700px; overflow: hidden; }
+
+@media only screen and (max-width: 750px) { .wrap { width: 550px; height: 900px; overflow: hidden; }
+  .streambox { width: 550px; height: 300px; overflow: hidden; } }
+.contact { width: 76.92% !important; height: 76.92% !important; -webkit-transform: scale(0.9); transform: scale(0.9); -webkit-transform-origin: 0 0; transform-origin: 0 0; }
+
+.stream { width: 90% !important; height: 90% !important; -webkit-transform: scale(0.9); transform: scale(0.9); -webkit-transform-origin: 0 0; transform-origin: 0 0; }
 
 body { font-family: "EB Garamond", serif; font-optical-sizing: auto; font-weight: 400; font-style: normal; font-size: 110%; }
 

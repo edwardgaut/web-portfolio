@@ -23,17 +23,37 @@ img[alt=headshot] { height: 45vh; }
   overflow: hidden;
 }
 
+.streambox {
+  width: 1110px;
+  height: 700px;
+  overflow: hidden;
+}
+
 @media only screen and (max-width: 750px) {
     .wrap {
         width: 550px;
         height: 900px;
         overflow: hidden;
     }
+    .streambox {
+        width: 550px;
+        height: 300px;
+        overflow: hidden;
+    }
 }
 
-iframe {
+.contact {
   width: 76.92% !important;
   height: 76.92% !important;
+  -webkit-transform: scale(0.9);
+  transform: scale(0.9);
+  -webkit-transform-origin: 0 0;
+  transform-origin: 0 0;
+}
+
+.stream {
+    width: 90%!important;
+  height: 90% !important;
   -webkit-transform: scale(0.9);
   transform: scale(0.9);
   -webkit-transform-origin: 0 0;
